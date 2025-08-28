@@ -1,4 +1,4 @@
-# Dead-Earth Project 🌍
+# Dead-Earth Project
 
 ## OpenxAI Global AI Accelerator - ENVIRO-TRACK Submission
 
